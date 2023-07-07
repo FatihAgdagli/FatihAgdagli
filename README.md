@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FatihAgdagli
-- 👀 I’m interested in ...
+- 👀 I’m interested in Game Devolopment
 - 🌱 I’m currently learning Unity, C#
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me agdaglifatih@gmail.com
